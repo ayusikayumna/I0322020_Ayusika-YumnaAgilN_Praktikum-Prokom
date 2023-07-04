@@ -1,0 +1,3 @@
+print("Ayusika Yumna Agil Nabillah")
+print("NIM I0322020")
+print("Rumahku berada di Kecamatan Tempel, Kabupaten Sleman, DIY. Rumahku berada di pinggir jalan raya, dengan sawah disekelilingnya. Jarak rumahku ke Universitas Sebelas Maret sekitar 80km. Harapanku setelah lulus dari Teknik Industri UNS adalah bisa bekerja pada bidang yang sesuai dan memiliki kesempatan berkarir yang besar. Membahagiakan kedua orang tua dengan hasil keringat sendiri dan dapat berguna bagi banyak orang. Saya juga ingin menjunjung nama baik almamater ")
